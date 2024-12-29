@@ -13,6 +13,10 @@ import recipe1 from "./imgs/recipe1.png";
 import recipe2 from "./imgs/recipe2.png";
 import recipe3 from "./imgs/recipe3.png";
 import recipe4 from "./imgs/recipe4.png";
+import news1 from "./imgs/news1.png";
+import news2 from "./imgs/news2.png";
+import news3 from "./imgs/news3.png";
+import news4 from "./imgs/news4.png";
 
 const Container = styled.div`
   width: 100%;
@@ -374,19 +378,14 @@ const Home = () => {
         <Con>
           <Type style={{ backgroundColor: "rgb(73, 91, 255)" }}>PC&모바일</Type>
           <Conimg>
-            <img src={recipe1} alt="이세계레시피섬네일1" />
-            <img src={recipe2} alt="이세계레시피섬네일2" />
-            <img src={recipe3} alt="이세계레시피섬네일3" />
-            <img src={recipe4} alt="이세계레시피섬네일4" />
+            <img src={news1} alt="경록이썸네일1" />
+            <img src={news2} alt="경록이썸네일2" />
+            <img src={news3} alt="경록이썸네일3" />
+            <img src={news4} alt="경록이썸네일4" />
           </Conimg>
-          <Description>만화 속 요리를 따라해보자</Description>
-          <Time>프로젝트 제작 기간 : 5일</Time>
+          <Description>경제 뉴스와 친해져보는건 어떨까요?</Description>
+          <Time>프로젝트 제작 기간 : 7일</Time>
         </Con>
-
-        {/* <Con></Con>
-        <Con></Con>
-        <Con></Con>
-        <Con></Con> */}
       </ConWrap>
     </Container>
   );
