@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/pringles/static/css/main.dd14a1a6.css",
+    "main.js": "/pringles/static/js/main.cf7ad1f6.js",
+    "static/media/RiaSans-ExtraBold.ttf": "/pringles/static/media/RiaSans-ExtraBold.a9bddbdf9bc63ebcbbc8.ttf",
+    "static/media/recipe3.jpg": "/pringles/static/media/recipe3.4cc2f28f03ba1ff722b5.jpg",
+    "static/media/recipe4.jpg": "/pringles/static/media/recipe4.1ebeb002d0cab9b5060b.jpg",
+    "static/media/odigo2.jpg": "/pringles/static/media/odigo2.a6177c8b8ffc2c520e9d.jpg",
+    "static/media/odigo3.jpg": "/pringles/static/media/odigo3.02fd01a45424867f5163.jpg",
+    "static/media/recipe1.jpg": "/pringles/static/media/recipe1.1ce40b02a2c233592bdd.jpg",
+    "static/media/obaksa1.png": "/pringles/static/media/obaksa1.74bb9881a737caa13253.png",
+    "static/media/obaksa4.png": "/pringles/static/media/obaksa4.6c1d3a4b11eac0f671ec.png",
+    "static/media/news2.jpg": "/pringles/static/media/news2.754539dce9505d6d806e.jpg",
+    "static/media/news3.jpg": "/pringles/static/media/news3.b089799ee9a8fbbadb41.jpg",
+    "static/media/odigo1.jpg": "/pringles/static/media/odigo1.57c5359b2452531e8981.jpg",
+    "static/media/moviecup4.jpg": "/pringles/static/media/moviecup4.5e6039bba577f5799a59.jpg",
+    "static/media/moviecup2.jpg": "/pringles/static/media/moviecup2.d9c4989cb759e5e2bd46.jpg",
+    "static/media/news1.jpg": "/pringles/static/media/news1.73a9a2af9b0c69f979f7.jpg",
+    "static/media/moviecup3.jpg": "/pringles/static/media/moviecup3.dad418cab45877608b47.jpg",
+    "static/media/recipe2.jpg": "/pringles/static/media/recipe2.4bfcec7432cfaa3c7ed5.jpg",
+    "static/media/storycut1.jpg": "/pringles/static/media/storycut1.fb276e752562498d6dea.jpg",
+    "static/media/obaksa3.png": "/pringles/static/media/obaksa3.9aae5bf3b2cefab7d199.png",
+    "static/media/storycut4.jpg": "/pringles/static/media/storycut4.339f68ac12a63a9a6b0f.jpg",
+    "static/media/storycut2.jpg": "/pringles/static/media/storycut2.aa03107af651d98391eb.jpg",
+    "static/media/obaksa2.png": "/pringles/static/media/obaksa2.d7668626cae6e87368c0.png",
+    "static/media/odigo4.jpg": "/pringles/static/media/odigo4.330194620647bbfcee16.jpg",
+    "static/media/itsme.jpg": "/pringles/static/media/itsme.c15f9807787e41dbb5be.jpg",
+    "static/media/storycut3.jpg": "/pringles/static/media/storycut3.681f12af4aa9abdf2dd2.jpg",
+    "static/media/moviecup1.jpg": "/pringles/static/media/moviecup1.9b0dfa544616a81c11b6.jpg",
+    "static/media/news4.jpg": "/pringles/static/media/news4.041756e0ae652558d920.jpg",
+    "index.html": "/pringles/index.html",
+    "main.dd14a1a6.css.map": "/pringles/static/css/main.dd14a1a6.css.map",
+    "main.cf7ad1f6.js.map": "/pringles/static/js/main.cf7ad1f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd14a1a6.css",
+    "static/js/main.cf7ad1f6.js"
+  ]
+}
