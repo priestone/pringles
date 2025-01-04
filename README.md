@@ -1,10 +1,1 @@
-# 설치 항목
-
-- [x] npm i react-router-dom
-- [x] npm i styled-components
-- [x] npm i styled-reset
-- [x] npm i react-hook-form
-- [] npm i react-spinners
-- [] npm i swiper
-- [] font-awesome
-- [] helmet-async
+# 사재원 지원자의 포트폴리오 랜딩페이지 입니다
