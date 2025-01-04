@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pringles/static/css/main.dd14a1a6.css",
-    "main.js": "/pringles/static/js/main.cf7ad1f6.js",
+    "main.js": "/pringles/static/js/main.a3cd5a5c.js",
     "static/media/RiaSans-ExtraBold.ttf": "/pringles/static/media/RiaSans-ExtraBold.a9bddbdf9bc63ebcbbc8.ttf",
     "static/media/recipe3.jpg": "/pringles/static/media/recipe3.4cc2f28f03ba1ff722b5.jpg",
     "static/media/recipe4.jpg": "/pringles/static/media/recipe4.1ebeb002d0cab9b5060b.jpg",
@@ -30,10 +30,10 @@
     "static/media/news4.jpg": "/pringles/static/media/news4.041756e0ae652558d920.jpg",
     "index.html": "/pringles/index.html",
     "main.dd14a1a6.css.map": "/pringles/static/css/main.dd14a1a6.css.map",
-    "main.cf7ad1f6.js.map": "/pringles/static/js/main.cf7ad1f6.js.map"
+    "main.a3cd5a5c.js.map": "/pringles/static/js/main.a3cd5a5c.js.map"
   },
   "entrypoints": [
     "static/css/main.dd14a1a6.css",
-    "static/js/main.cf7ad1f6.js"
+    "static/js/main.a3cd5a5c.js"
   ]
 }
