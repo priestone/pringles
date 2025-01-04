@@ -187,37 +187,37 @@ const Line = styled.div`
   margin-bottom: 20px;
 `;
 
-const ButtonWrap = styled.div`
-  width: 400px;
-  display: flex;
-  margin-bottom: 20px;
+// const ButtonWrap = styled.div`
+//   width: 400px;
+//   display: flex;
+//   margin-bottom: 20px;
 
-  @media screen and (max-width: 678px) {
-    width: 200px;
-  }
-`;
+//   @media screen and (max-width: 678px) {
+//     width: 200px;
+//   }
+// `;
 
-const Button = styled.div`
-  min-width: 12px;
-  width: 100%;
-  height: 32px;
-  border-radius: 8px;
-  background-color: rgba(255, 255, 255, 0.1);
-  color: white;
-  text-align: center;
-  line-height: 32px;
-  cursor: pointer;
-  margin-right: 10px;
-  &:hover {
-    background-color: rgba(255, 255, 255, 0.9);
-    color: black;
-    transition: 0.3s;
-  }
+// const Button = styled.div`
+//   min-width: 12px;
+//   width: 100%;
+//   height: 32px;
+//   border-radius: 8px;
+//   background-color: rgba(255, 255, 255, 0.1);
+//   color: white;
+//   text-align: center;
+//   line-height: 32px;
+//   cursor: pointer;
+//   margin-right: 10px;
+//   &:hover {
+//     background-color: rgba(255, 255, 255, 0.9);
+//     color: black;
+//     transition: 0.3s;
+//   }
 
-  @media screen and (max-width: 678px) {
-    font-size: 12px;
-  }
-`;
+//   @media screen and (max-width: 678px) {
+//     font-size: 12px;
+//   }
+// `;
 
 const ConWrap = styled.div`
   width: 100%;
