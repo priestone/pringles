@@ -25,6 +25,10 @@ import moviecup1 from "./imgs/moviecup1.jpg";
 import moviecup2 from "./imgs/moviecup2.jpg";
 import moviecup3 from "./imgs/moviecup3.jpg";
 import moviecup4 from "./imgs/moviecup4.jpg";
+import masterpiece1 from "./imgs/masterpiece1.jpg";
+import masterpiece2 from "./imgs/masterpiece2.jpg";
+import masterpiece3 from "./imgs/masterpiece3.jpg";
+import masterpiece4 from "./imgs/masterpiece4.jpg";
 
 const Container = styled.div`
   width: 100%;
@@ -384,7 +388,7 @@ const Home = () => {
           <h2>사재원</h2>
           <h3>STACK</h3>
           <p>
-            react, node js, git, github, html, css, figma, photoshop,
+            react, javascript, git, github, html, css, figma, photoshop,
             illustrator
           </p>
           <p>총 포트폴리오 갯수 : 6개</p>
@@ -400,6 +404,23 @@ const Home = () => {
         <Button>날짜순</Button>
       </ButtonWrap> */}
       <ConWrap>
+        <Con>
+          <a href="https://priestone.github.io/Masterpiece/" target="_blank">
+            <Type style={{ backgroundColor: "rgb(73, 91, 255)" }}>
+              PC&모바일
+            </Type>
+            <Conimg>
+              <img src={masterpiece1} alt="진품명품섬네일1" />
+              <img src={masterpiece2} alt="진품명품섬네일2" />
+              <img src={masterpiece3} alt="진품명품섬네일3" />
+              <img src={masterpiece4} alt="진품명품섬네일4" />
+            </Conimg>
+            <Description>
+              [찾아봐요 진품명품] 여욱이의 상점에서 진품을 찾아라!
+            </Description>
+            <Time>프로젝트 제작 기간 : 7일</Time>
+          </a>
+        </Con>
         <Con>
           <a href="https://priestone.github.io/obaksa/" target="_blank">
             <Type>모바일</Type>
