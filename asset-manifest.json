@@ -1,13 +1,17 @@
 {
   "files": {
     "main.css": "/pringles/static/css/main.dd14a1a6.css",
-    "main.js": "/pringles/static/js/main.a3cd5a5c.js",
+    "main.js": "/pringles/static/js/main.5cc6a62d.js",
+    "static/media/masterpiece4.jpg": "/pringles/static/media/masterpiece4.3c9a7bbe9cdd371c6016.jpg",
+    "static/media/masterpiece1.jpg": "/pringles/static/media/masterpiece1.f8835e12f43f6800b878.jpg",
+    "static/media/masterpiece2.jpg": "/pringles/static/media/masterpiece2.f24ee73b895049fc4bf4.jpg",
     "static/media/RiaSans-ExtraBold.ttf": "/pringles/static/media/RiaSans-ExtraBold.a9bddbdf9bc63ebcbbc8.ttf",
     "static/media/recipe3.jpg": "/pringles/static/media/recipe3.4cc2f28f03ba1ff722b5.jpg",
     "static/media/recipe4.jpg": "/pringles/static/media/recipe4.1ebeb002d0cab9b5060b.jpg",
     "static/media/odigo2.jpg": "/pringles/static/media/odigo2.a6177c8b8ffc2c520e9d.jpg",
     "static/media/odigo3.jpg": "/pringles/static/media/odigo3.02fd01a45424867f5163.jpg",
     "static/media/recipe1.jpg": "/pringles/static/media/recipe1.1ce40b02a2c233592bdd.jpg",
+    "static/media/masterpiece3.jpg": "/pringles/static/media/masterpiece3.ffaa3b90435f1313e512.jpg",
     "static/media/obaksa1.png": "/pringles/static/media/obaksa1.74bb9881a737caa13253.png",
     "static/media/obaksa4.png": "/pringles/static/media/obaksa4.6c1d3a4b11eac0f671ec.png",
     "static/media/news2.jpg": "/pringles/static/media/news2.754539dce9505d6d806e.jpg",
@@ -30,10 +34,10 @@
     "static/media/news4.jpg": "/pringles/static/media/news4.041756e0ae652558d920.jpg",
     "index.html": "/pringles/index.html",
     "main.dd14a1a6.css.map": "/pringles/static/css/main.dd14a1a6.css.map",
-    "main.a3cd5a5c.js.map": "/pringles/static/js/main.a3cd5a5c.js.map"
+    "main.5cc6a62d.js.map": "/pringles/static/js/main.5cc6a62d.js.map"
   },
   "entrypoints": [
     "static/css/main.dd14a1a6.css",
-    "static/js/main.a3cd5a5c.js"
+    "static/js/main.5cc6a62d.js"
   ]
 }
