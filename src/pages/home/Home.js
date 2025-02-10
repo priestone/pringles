@@ -391,7 +391,7 @@ const Home = () => {
             react, javascript, git, github, html, css, figma, photoshop,
             illustrator
           </p>
-          <p>총 포트폴리오 갯수 : 6개</p>
+          <p>총 포트폴리오 갯수 : 7개</p>
           <a href="https://github.com/priestone" target="_blank">
             <span>깃허브 바로가기</span>
           </a>
