@@ -388,8 +388,8 @@ const Home = () => {
           <h2>사재원</h2>
           <h3>STACK</h3>
           <p>
-            react, javascript, git, github, html, css, figma, photoshop,
-            illustrator
+            typescript, react, javascript, git, github, html, css, figma,
+            photoshop, illustrator
           </p>
           <p>총 포트폴리오 갯수 : 7개</p>
           <a href="https://github.com/priestone" target="_blank">
